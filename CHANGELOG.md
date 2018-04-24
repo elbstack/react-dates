@@ -1,7 +1,10 @@
 # Change Log
 
-## 16.7.0
+## 16.7.1
 - [new] Add year and month changer functionality
+
+## 16.7.0
+- [fix] Meh
 
 ## 16.6.1
 - [fix] Fix selective disabling of the `DateRangePicker` ([#1116](https://github.com/airbnb/react-dates/pull/1116))
