@@ -1,5 +1,8 @@
 # Change Log
 
+## 16.7.0
+- [new] Month / Year picker
+
 ## 16.6.1
 - [fix] Fix selective disabling of the `DateRangePicker` ([#1116](https://github.com/airbnb/react-dates/pull/1116))
 - [fix] Fix `onOutsideClick` refactor ([#1115](https://github.com/airbnb/react-dates/pull/1115))
