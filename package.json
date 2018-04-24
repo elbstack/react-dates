@@ -1,6 +1,6 @@
 {
   "name": "@elbstack/react-dates",
-  "version": "16.7.0",
+  "version": "16.6.1",
   "description": "A responsive and accessible date range picker component built with React",
   "main": "index.js",
   "scripts": {
